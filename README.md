@@ -2,7 +2,7 @@
 
 ## SQL + Power BI | Sales Performance | Business Insights
 
-## Can high opportunity volume actually translate into higher sales?
+### Can high opportunity volume actually translate into higher sales?
 
 This project analyses a fictional B2B technology company's sales pipeline using SQL and Power BI to identify performance differences across regions, sales agents, products and time periods - and translate those findings into actionable business questions and recommendations.
 
