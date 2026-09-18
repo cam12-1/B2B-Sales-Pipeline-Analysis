@@ -112,12 +112,16 @@ Opportunity volume doesn't always translate into higher sales: July had highest 
 #### Recommendation:
 Investigate months with lower win rates, and identify opportunities to improve high opportunity volume into sales.
 
+## Data Source
 
-## Dataset
+This project uses the CRM Sales Opportunities dataset provided by Maven Analytics.
 
-The project uses a fictional B2B sales pipeline dataset.
+The dataset contains fictional B2B sales pipeline data for a computer hardware company, including accounts, products, sales teams, and sales opportunities.
 
-The dataset is not currently included in this repository. The original dataset source will be referenced here.
+Source: Maven Analytics – CRM Sales Opportunities
+
+Original source: data.world
+License: Public Domain
 
 ## Disclaimer
 
